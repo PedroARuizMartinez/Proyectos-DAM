@@ -1,1 +1,8 @@
 Asignatura (M03B) --> Programación en JAVA
+Consta de las siguientes UF:
+  1. UF1 -> Programación estructurada.
+  2. UF2 -> Diseño modular.
+  3. UF3 -> Fundamentos de gestión de ficheros.
+  4. UF4 -> POO. Fundamentos.
+  5. UF5 -> POO. Librerías de clases fundamentales.
+  6. UF6 -> POO. Introducción a la persistencia en BD.

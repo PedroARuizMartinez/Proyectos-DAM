@@ -1,0 +1,855 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 09:29:55 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_EAC2_E2\db\targetesgrafiques.odb' is opened by 1104@Pedro-520
+
+[2021-05-12 09:29:55 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 09:30:00 #3 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_EAC2_E2\db\targetesgrafiques.odb' is closed by 1104@Pedro-520
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 09:34:45 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 7672@Pedro-520
+
+[2021-05-12 09:34:45 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 09:34:53 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' has been recovered (tr. 1-2)
+
+[2021-05-12 09:34:53 #2 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 13700@Pedro-520
+
+[2021-05-12 09:34:53 #3 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 09:35:11 #4 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 13700@Pedro-520
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 09:37:14 #1 server] 
+Server on port 6136 has started by 16588@Pedro-520
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 09:37:21 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 9736@Pedro-520
+
+[2021-05-12 09:37:21 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 09:37:27 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 8708@Pedro-520
+
+[2021-05-12 09:37:27 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 09:37:29 #3 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 8708@Pedro-520
+
+[2021-05-12 09:37:33 #2 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\otra.odb' is opened by 16588@Pedro-520
+
+[2021-05-12 09:37:33 #3 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 09:37:33 #4 type] 
+Type eac2.ex2.model.TargetaGrafica is not enhanced.
+
+[2021-05-12 09:37:33 #5 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\otra.odb' is closed by 16588@Pedro-520
+
+[2021-05-12 09:38:03 #6 server] 
+Server on port 6136 has stopped by 16588@Pedro-520
+
+[2021-05-12 09:38:03 #7 server] 
+Server on port 6136 has started by 16588@Pedro-520
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 09:41:56 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 18316@Pedro-520
+
+[2021-05-12 09:41:56 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 09:41:56 #3 type] 
+Type eac2.ex2.model.TargetaGrafica is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 09:42:42 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' has been recovered (tr. 3-4)
+
+[2021-05-12 09:42:43 #2 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 11488@Pedro-520
+
+[2021-05-12 09:42:43 #3 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 09:42:43 #4 type] 
+Type eac2.ex2.model.TargetaGrafica is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 09:43:31 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 18656@Pedro-520
+
+[2021-05-12 09:43:31 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 09:43:31 #3 type] 
+Type eac2.ex2.model.TargetaGrafica is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 09:43:51 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 9212@Pedro-520
+
+[2021-05-12 09:43:51 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 09:43:51 #3 type] 
+Type eac2.ex2.model.TargetaGrafica is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 09:44:27 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 16228@Pedro-520
+
+[2021-05-12 09:44:27 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 09:44:27 #3 type] 
+Type eac2.ex2.model.TargetaGrafica is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 09:44:44 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 9828@Pedro-520
+
+[2021-05-12 09:44:44 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 09:44:44 #3 type] 
+Type eac2.ex2.model.TargetaGrafica is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 09:44:55 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 2896@Pedro-520
+
+[2021-05-12 09:44:55 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 09:44:57 #3 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 2896@Pedro-520
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 09:45:26 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 10808@Pedro-520
+
+[2021-05-12 09:45:26 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 09:45:34 #3 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 10808@Pedro-520
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 09:45:59 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 7264@Pedro-520
+
+[2021-05-12 09:45:59 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 09:46:32 #3 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 7264@Pedro-520
+
+[2021-05-12 10:02:18 #8 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is opened by 16588@Pedro-520
+
+[2021-05-12 10:02:18 #9 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:02:18 #10 server] 
+[ObjectDB 2.8.5] Unexpected exception (Error 990)
+  Generated by Java HotSpot(TM) 64-Bit Server VM 15.0.1 (on Windows 10 10.0).
+Please report this error on http://www.objectdb.com/issue/new
+com.objectdb.o.InternalException: Error reading UTF string
+com.objectdb.o.InternalException: Error reading UTF string
+	at com.objectdb.o.BYR.U(BYR.java:1217)
+	at com.objectdb.o.BYR.U(BYR.java:523)
+	at com.objectdb.o.BYR.L(BYR.java:504)
+	at com.objectdb.o.QJD.a(QJD.java:247)
+	at com.objectdb.o.QRD.f(QRD.java:384)
+	at com.objectdb.o.QRQ.m(QRQ.java:372)
+	at com.objectdb.o.STC.h(STC.java:462)
+	at com.objectdb.o.SHN.I(SHN.java:491)
+	at com.objectdb.o.SHN.w(SHN.java:157)
+	at com.objectdb.o.HND.run(HND.java:134)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+[2021-05-12 10:02:18 #11 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is closed by 16588@Pedro-520
+
+[2021-05-12 10:02:18 #12 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is opened by 16588@Pedro-520
+
+[2021-05-12 10:02:18 #13 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:02:18 #14 server] 
+[ObjectDB 2.8.5] Unexpected exception (Error 990)
+  Generated by Java HotSpot(TM) 64-Bit Server VM 15.0.1 (on Windows 10 10.0).
+Please report this error on http://www.objectdb.com/issue/new
+com.objectdb.o.InternalException: Error reading UTF string
+com.objectdb.o.InternalException: Error reading UTF string
+	at com.objectdb.o.BYR.U(BYR.java:1217)
+	at com.objectdb.o.BYR.U(BYR.java:523)
+	at com.objectdb.o.BYR.L(BYR.java:504)
+	at com.objectdb.o.QJD.a(QJD.java:247)
+	at com.objectdb.o.QRD.f(QRD.java:384)
+	at com.objectdb.o.QRQ.m(QRQ.java:372)
+	at com.objectdb.o.STC.h(STC.java:462)
+	at com.objectdb.o.SHN.I(SHN.java:491)
+	at com.objectdb.o.SHN.w(SHN.java:157)
+	at com.objectdb.o.HND.run(HND.java:134)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+[2021-05-12 10:02:18 #15 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is closed by 16588@Pedro-520
+
+[2021-05-12 10:02:18 #16 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is opened by 16588@Pedro-520
+
+[2021-05-12 10:02:18 #17 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:02:18 #18 server] 
+[ObjectDB 2.8.5] Unexpected exception (Error 990)
+  Generated by Java HotSpot(TM) 64-Bit Server VM 15.0.1 (on Windows 10 10.0).
+Please report this error on http://www.objectdb.com/issue/new
+com.objectdb.o.InternalException: Error reading UTF string
+com.objectdb.o.InternalException: Error reading UTF string
+	at com.objectdb.o.BYR.U(BYR.java:1217)
+	at com.objectdb.o.BYR.U(BYR.java:523)
+	at com.objectdb.o.BYR.L(BYR.java:504)
+	at com.objectdb.o.QJD.a(QJD.java:247)
+	at com.objectdb.o.QRD.f(QRD.java:384)
+	at com.objectdb.o.QRQ.m(QRQ.java:372)
+	at com.objectdb.o.STC.h(STC.java:462)
+	at com.objectdb.o.SHN.I(SHN.java:491)
+	at com.objectdb.o.SHN.w(SHN.java:157)
+	at com.objectdb.o.HND.run(HND.java:134)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+[2021-05-12 10:02:18 #19 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is closed by 16588@Pedro-520
+
+[2021-05-12 10:02:18 #20 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is opened by 16588@Pedro-520
+
+[2021-05-12 10:02:18 #21 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:02:18 #22 server] 
+[ObjectDB 2.8.5] Unexpected exception (Error 990)
+  Generated by Java HotSpot(TM) 64-Bit Server VM 15.0.1 (on Windows 10 10.0).
+Please report this error on http://www.objectdb.com/issue/new
+com.objectdb.o.InternalException: Error reading UTF string
+com.objectdb.o.InternalException: Error reading UTF string
+	at com.objectdb.o.BYR.U(BYR.java:1217)
+	at com.objectdb.o.BYR.U(BYR.java:523)
+	at com.objectdb.o.BYR.L(BYR.java:504)
+	at com.objectdb.o.QJD.a(QJD.java:247)
+	at com.objectdb.o.QRD.f(QRD.java:384)
+	at com.objectdb.o.QRQ.m(QRQ.java:372)
+	at com.objectdb.o.STC.h(STC.java:462)
+	at com.objectdb.o.SHN.I(SHN.java:491)
+	at com.objectdb.o.SHN.w(SHN.java:157)
+	at com.objectdb.o.HND.run(HND.java:134)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+[2021-05-12 10:02:18 #23 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is closed by 16588@Pedro-520
+
+[2021-05-12 10:02:18 #24 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is opened by 16588@Pedro-520
+
+[2021-05-12 10:02:18 #25 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:02:18 #26 server] 
+[ObjectDB 2.8.5] Unexpected exception (Error 990)
+  Generated by Java HotSpot(TM) 64-Bit Server VM 15.0.1 (on Windows 10 10.0).
+Please report this error on http://www.objectdb.com/issue/new
+com.objectdb.o.InternalException: Error reading UTF string
+com.objectdb.o.InternalException: Error reading UTF string
+	at com.objectdb.o.BYR.U(BYR.java:1217)
+	at com.objectdb.o.BYR.U(BYR.java:523)
+	at com.objectdb.o.BYR.L(BYR.java:504)
+	at com.objectdb.o.QJD.a(QJD.java:247)
+	at com.objectdb.o.QRD.f(QRD.java:384)
+	at com.objectdb.o.QRQ.m(QRQ.java:372)
+	at com.objectdb.o.STC.h(STC.java:462)
+	at com.objectdb.o.SHN.I(SHN.java:491)
+	at com.objectdb.o.SHN.w(SHN.java:157)
+	at com.objectdb.o.HND.run(HND.java:134)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+[2021-05-12 10:02:18 #27 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is closed by 16588@Pedro-520
+
+[2021-05-12 10:02:26 #28 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is opened by 16588@Pedro-520
+
+[2021-05-12 10:02:26 #29 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:02:26 #30 server] 
+[ObjectDB 2.8.5] Unexpected exception (Error 990)
+  Generated by Java HotSpot(TM) 64-Bit Server VM 15.0.1 (on Windows 10 10.0).
+Please report this error on http://www.objectdb.com/issue/new
+com.objectdb.o.InternalException: Error reading UTF string
+com.objectdb.o.InternalException: Error reading UTF string
+	at com.objectdb.o.BYR.U(BYR.java:1217)
+	at com.objectdb.o.BYR.U(BYR.java:523)
+	at com.objectdb.o.BYR.L(BYR.java:504)
+	at com.objectdb.o.QJD.a(QJD.java:247)
+	at com.objectdb.o.QRD.f(QRD.java:384)
+	at com.objectdb.o.QRQ.m(QRQ.java:372)
+	at com.objectdb.o.STC.h(STC.java:462)
+	at com.objectdb.o.SHN.I(SHN.java:491)
+	at com.objectdb.o.SHN.w(SHN.java:157)
+	at com.objectdb.o.HND.run(HND.java:134)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+[2021-05-12 10:02:26 #31 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is closed by 16588@Pedro-520
+
+[2021-05-12 10:02:26 #32 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is opened by 16588@Pedro-520
+
+[2021-05-12 10:02:26 #33 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:02:26 #34 server] 
+[ObjectDB 2.8.5] Unexpected exception (Error 990)
+  Generated by Java HotSpot(TM) 64-Bit Server VM 15.0.1 (on Windows 10 10.0).
+Please report this error on http://www.objectdb.com/issue/new
+com.objectdb.o.InternalException: Error reading UTF string
+com.objectdb.o.InternalException: Error reading UTF string
+	at com.objectdb.o.BYR.U(BYR.java:1217)
+	at com.objectdb.o.BYR.U(BYR.java:523)
+	at com.objectdb.o.BYR.L(BYR.java:504)
+	at com.objectdb.o.QJD.a(QJD.java:247)
+	at com.objectdb.o.QRD.f(QRD.java:384)
+	at com.objectdb.o.QRQ.m(QRQ.java:372)
+	at com.objectdb.o.STC.h(STC.java:462)
+	at com.objectdb.o.SHN.I(SHN.java:491)
+	at com.objectdb.o.SHN.w(SHN.java:157)
+	at com.objectdb.o.HND.run(HND.java:134)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+[2021-05-12 10:02:26 #35 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is closed by 16588@Pedro-520
+
+[2021-05-12 10:02:26 #36 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is opened by 16588@Pedro-520
+
+[2021-05-12 10:02:26 #37 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:02:26 #38 server] 
+[ObjectDB 2.8.5] Unexpected exception (Error 990)
+  Generated by Java HotSpot(TM) 64-Bit Server VM 15.0.1 (on Windows 10 10.0).
+Please report this error on http://www.objectdb.com/issue/new
+com.objectdb.o.InternalException: Error reading UTF string
+com.objectdb.o.InternalException: Error reading UTF string
+	at com.objectdb.o.BYR.U(BYR.java:1217)
+	at com.objectdb.o.BYR.U(BYR.java:523)
+	at com.objectdb.o.BYR.L(BYR.java:504)
+	at com.objectdb.o.QJD.a(QJD.java:247)
+	at com.objectdb.o.QRD.f(QRD.java:384)
+	at com.objectdb.o.QRQ.m(QRQ.java:372)
+	at com.objectdb.o.STC.h(STC.java:462)
+	at com.objectdb.o.SHN.I(SHN.java:491)
+	at com.objectdb.o.SHN.w(SHN.java:157)
+	at com.objectdb.o.HND.run(HND.java:134)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+[2021-05-12 10:02:26 #39 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is closed by 16588@Pedro-520
+
+[2021-05-12 10:02:26 #40 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is opened by 16588@Pedro-520
+
+[2021-05-12 10:02:26 #41 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:02:26 #42 server] 
+[ObjectDB 2.8.5] Unexpected exception (Error 990)
+  Generated by Java HotSpot(TM) 64-Bit Server VM 15.0.1 (on Windows 10 10.0).
+Please report this error on http://www.objectdb.com/issue/new
+com.objectdb.o.InternalException: Error reading UTF string
+com.objectdb.o.InternalException: Error reading UTF string
+	at com.objectdb.o.BYR.U(BYR.java:1217)
+	at com.objectdb.o.BYR.U(BYR.java:523)
+	at com.objectdb.o.BYR.L(BYR.java:504)
+	at com.objectdb.o.QJD.a(QJD.java:247)
+	at com.objectdb.o.QRD.f(QRD.java:384)
+	at com.objectdb.o.QRQ.m(QRQ.java:372)
+	at com.objectdb.o.STC.h(STC.java:462)
+	at com.objectdb.o.SHN.I(SHN.java:491)
+	at com.objectdb.o.SHN.w(SHN.java:157)
+	at com.objectdb.o.HND.run(HND.java:134)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+[2021-05-12 10:02:26 #43 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is closed by 16588@Pedro-520
+
+[2021-05-12 10:02:26 #44 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is opened by 16588@Pedro-520
+
+[2021-05-12 10:02:26 #45 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:02:26 #46 server] 
+[ObjectDB 2.8.5] Unexpected exception (Error 990)
+  Generated by Java HotSpot(TM) 64-Bit Server VM 15.0.1 (on Windows 10 10.0).
+Please report this error on http://www.objectdb.com/issue/new
+com.objectdb.o.InternalException: Error reading UTF string
+com.objectdb.o.InternalException: Error reading UTF string
+	at com.objectdb.o.BYR.U(BYR.java:1217)
+	at com.objectdb.o.BYR.U(BYR.java:523)
+	at com.objectdb.o.BYR.L(BYR.java:504)
+	at com.objectdb.o.QJD.a(QJD.java:247)
+	at com.objectdb.o.QRD.f(QRD.java:384)
+	at com.objectdb.o.QRQ.m(QRQ.java:372)
+	at com.objectdb.o.STC.h(STC.java:462)
+	at com.objectdb.o.SHN.I(SHN.java:491)
+	at com.objectdb.o.SHN.w(SHN.java:157)
+	at com.objectdb.o.HND.run(HND.java:134)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+[2021-05-12 10:02:26 #47 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is closed by 16588@Pedro-520
+
+[2021-05-12 10:06:05 #48 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is opened by 16588@Pedro-520
+
+[2021-05-12 10:06:05 #49 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:06:09 #50 store] 
+Database 'C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\db\targetesgrafiques.odb' is closed by 16588@Pedro-520
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 10:06:19 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 14060@Pedro-520
+
+[2021-05-12 10:06:19 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:06:20 #3 type] 
+Type eac2.ex2.model.TargetaGrafica is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 10:06:28 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 12048@Pedro-520
+
+[2021-05-12 10:06:28 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:06:30 #3 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 12048@Pedro-520
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 10:09:49 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 2076@Pedro-520
+
+[2021-05-12 10:09:49 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:09:49 #3 type] 
+Type eac2.ex2.model.TargetaGrafica is not enhanced.
+
+[2021-05-12 10:09:49 #4 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 2076@Pedro-520
+
+[2021-05-12 10:09:49 #5 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 2076@Pedro-520
+
+[2021-05-12 10:09:49 #6 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:09:49 #7 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 2076@Pedro-520
+
+[2021-05-12 10:09:49 #8 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 2076@Pedro-520
+
+[2021-05-12 10:09:49 #9 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:09:49 #10 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 2076@Pedro-520
+
+[2021-05-12 10:09:49 #11 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 2076@Pedro-520
+
+[2021-05-12 10:09:49 #12 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:09:49 #13 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 2076@Pedro-520
+
+[2021-05-12 10:09:49 #14 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 2076@Pedro-520
+
+[2021-05-12 10:09:49 #15 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:09:49 #16 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 2076@Pedro-520
+
+[2021-05-12 10:09:49 #17 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 2076@Pedro-520
+
+[2021-05-12 10:09:49 #18 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:09:49 #19 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 2076@Pedro-520
+
+[2021-05-12 10:09:49 #20 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 2076@Pedro-520
+
+[2021-05-12 10:09:49 #21 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:09:49 #22 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 2076@Pedro-520
+
+[2021-05-12 10:09:49 #23 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 2076@Pedro-520
+
+[2021-05-12 10:09:49 #24 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:09:49 #25 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 2076@Pedro-520
+
+[2021-05-12 10:09:49 #26 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 2076@Pedro-520
+
+[2021-05-12 10:09:49 #27 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:09:49 #28 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 2076@Pedro-520
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 10:10:37 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 11996@Pedro-520
+
+[2021-05-12 10:10:37 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:10:37 #3 type] 
+Type eac2.ex2.model.TargetaGrafica is not enhanced.
+
+[2021-05-12 10:10:37 #4 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 11996@Pedro-520
+
+[2021-05-12 10:10:37 #5 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 11996@Pedro-520
+
+[2021-05-12 10:10:37 #6 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:10:37 #7 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 11996@Pedro-520
+
+[2021-05-12 10:10:37 #8 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 11996@Pedro-520
+
+[2021-05-12 10:10:37 #9 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:10:37 #10 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 11996@Pedro-520
+
+[2021-05-12 10:10:37 #11 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 11996@Pedro-520
+
+[2021-05-12 10:10:37 #12 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:10:38 #13 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 11996@Pedro-520
+
+[2021-05-12 10:10:38 #14 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 11996@Pedro-520
+
+[2021-05-12 10:10:38 #15 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:10:38 #16 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 11996@Pedro-520
+
+[2021-05-12 10:10:38 #17 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 11996@Pedro-520
+
+[2021-05-12 10:10:38 #18 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:10:38 #19 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 11996@Pedro-520
+
+[2021-05-12 10:10:38 #20 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 11996@Pedro-520
+
+[2021-05-12 10:10:38 #21 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:10:38 #22 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 11996@Pedro-520
+
+[2021-05-12 10:10:38 #23 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 11996@Pedro-520
+
+[2021-05-12 10:10:38 #24 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:10:38 #25 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 11996@Pedro-520
+
+[2021-05-12 10:10:38 #26 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 11996@Pedro-520
+
+[2021-05-12 10:10:38 #27 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:10:38 #28 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 11996@Pedro-520
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 10:17:36 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 2928@Pedro-520
+
+[2021-05-12 10:17:36 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:17:41 #3 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 2928@Pedro-520
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 10:17:49 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 8032@Pedro-520
+
+[2021-05-12 10:17:49 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:17:49 #3 type] 
+Type eac2.ex2.model.TargetaGrafica is not enhanced.
+
+[2021-05-12 10:17:49 #4 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 8032@Pedro-520
+
+[2021-05-12 10:17:49 #5 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 8032@Pedro-520
+
+[2021-05-12 10:17:49 #6 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:17:49 #7 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 8032@Pedro-520
+
+[2021-05-12 10:17:49 #8 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 8032@Pedro-520
+
+[2021-05-12 10:17:49 #9 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:17:49 #10 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 8032@Pedro-520
+
+[2021-05-12 10:17:49 #11 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 8032@Pedro-520
+
+[2021-05-12 10:17:49 #12 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:17:49 #13 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 8032@Pedro-520
+
+[2021-05-12 10:17:49 #14 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 8032@Pedro-520
+
+[2021-05-12 10:17:49 #15 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:17:49 #16 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 8032@Pedro-520
+
+[2021-05-12 10:17:49 #17 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 8032@Pedro-520
+
+[2021-05-12 10:17:49 #18 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:17:49 #19 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 8032@Pedro-520
+
+[2021-05-12 10:17:49 #20 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 8032@Pedro-520
+
+[2021-05-12 10:17:49 #21 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:17:49 #22 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 8032@Pedro-520
+
+[2021-05-12 10:17:49 #23 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 8032@Pedro-520
+
+[2021-05-12 10:17:49 #24 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:17:49 #25 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 8032@Pedro-520
+
+[2021-05-12 10:17:49 #26 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 8032@Pedro-520
+
+[2021-05-12 10:17:49 #27 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:17:49 #28 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 8032@Pedro-520
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 10:17:53 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 10172@Pedro-520
+
+[2021-05-12 10:17:53 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 10:17:54 #3 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 10172@Pedro-520
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 11:42:42 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 16412@Pedro-520
+
+[2021-05-12 11:42:42 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 11:42:47 #3 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 16412@Pedro-520
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-12 17:02:31 #1 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 9700@Pedro-520
+
+[2021-05-12 17:02:31 #2 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 17:02:32 #3 type] 
+Type eac2.ex2.model.TargetaGrafica is not enhanced.
+
+[2021-05-12 17:02:32 #4 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 9700@Pedro-520
+
+[2021-05-12 17:02:32 #5 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 9700@Pedro-520
+
+[2021-05-12 17:02:32 #6 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 17:02:32 #7 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 9700@Pedro-520
+
+[2021-05-12 17:02:32 #8 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 9700@Pedro-520
+
+[2021-05-12 17:02:32 #9 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 17:02:32 #10 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 9700@Pedro-520
+
+[2021-05-12 17:02:32 #11 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 9700@Pedro-520
+
+[2021-05-12 17:02:32 #12 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 17:02:32 #13 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 9700@Pedro-520
+
+[2021-05-12 17:02:32 #14 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 9700@Pedro-520
+
+[2021-05-12 17:02:32 #15 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 17:02:32 #16 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 9700@Pedro-520
+
+[2021-05-12 17:02:32 #17 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 9700@Pedro-520
+
+[2021-05-12 17:02:32 #18 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 17:02:32 #19 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 9700@Pedro-520
+
+[2021-05-12 17:02:32 #20 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 9700@Pedro-520
+
+[2021-05-12 17:02:32 #21 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 17:02:32 #22 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 9700@Pedro-520
+
+[2021-05-12 17:02:32 #23 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 9700@Pedro-520
+
+[2021-05-12 17:02:32 #24 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 17:02:32 #25 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 9700@Pedro-520
+
+[2021-05-12 17:02:32 #26 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is opened by 9700@Pedro-520
+
+[2021-05-12 17:02:32 #27 store] 
+Configuration path: C:\Users\Pedro\Desktop\Estudio\M06\LIBRERIAS\objectdb-2.8.5\objectdb.conf
+
+[2021-05-12 17:02:32 #28 store] 
+Database 'C:\Users\Pedro\Desktop\JAVA_FP\M06_U2_E3_ESTUDIO\targetesgrafiques.odb' is closed by 9700@Pedro-520
+

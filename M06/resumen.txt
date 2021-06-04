@@ -1,1 +1,17 @@
-Aquí podremos encontrar los diferentes trabajaos entregados para el Modulo de grado superior de DAM
+Aquí podremos encontrar los diferentes trabajaos entregados para el Modulo de grado superior de DAM.
+
+Unidades formativas:
+  1. UF1 --> Persistencia de ficheros
+  2. UF2 --> Persistencia en DBR-BDOR-BDOO
+  3. UF3 --> Persistencia en BD nativas XML
+  4. UF4 --> Componentes de acceso a datos.
+
+
+Las librerías utilizadas en el modulo son:
+  1. PostgreSQL
+  2. JPA
+  3. JAXB
+  4. EclipseLink (proppias de Netbeans).
+  5. Junit (proppias de Netbeans).
+  6. HamCrest (proppias de Netbeans).
+  7. ObjectDB

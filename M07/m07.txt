@@ -1,1 +1,4 @@
 Entrega para la asignatura M07 - Desarrollo de interfaces.
+Consta de las siguientes UF (Desarrollo de interfaces):
+  1. UF1 -> Diseño e implementación de interfaces.
+  2. UF2 -> Preparación y distribución de aplicaciones.  

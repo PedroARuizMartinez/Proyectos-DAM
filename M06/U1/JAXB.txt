@@ -1,0 +1,2 @@
+https://www.vogella.com/tutorials/JAXB/article.html
+https://mkyong.com/java/jaxb-hello-world-example/

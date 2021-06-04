@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equip>
+    <nom>G2</nom>
+    <pais>Alemanya</pais>
+    <pot_fitxar>true</pot_fitxar>
+    <nombre_jugadors>6</nombre_jugadors>
+    <plantilla>
+        <jugador>
+            <nom>Wunder</nom>
+            <pais>Dinamarca</pais>
+            <rol>top</rol>
+            <fi_contracte>2022-11-21</fi_contracte>
+        </jugador>
+        <jugador>
+            <nom>Jankos</nom>
+            <pais>Polonia</pais>
+            <rol>jungla</rol>
+            <fi_contracte>2022-11-21</fi_contracte>
+        </jugador>
+        <jugador>
+            <nom>Caps</nom>
+            <pais>Dinamarca</pais>
+            <rol>mid</rol>
+            <fi_contracte>2022-11-21</fi_contracte>
+        </jugador>
+        <jugador>
+            <nom>Rekkles</nom>
+            <pais>Suecia</pais>
+            <rol>ADC</rol>
+            <fi_contracte>2023-11-20</fi_contracte>
+        </jugador>
+        <jugador>
+            <nom>Mikyx</nom>
+            <pais>Eslovenia</pais>
+            <rol>support</rol>
+            <fi_contracte>2022-11-21</fi_contracte>
+        </jugador>
+        <jugador>
+            <nom>Pedro</nom>
+            <pais>España</pais>
+            <rol>DEF</rol>
+            <fi_contracte>2011-16-17</fi_contracte>
+        </jugador>
+    </plantilla>
+</equip>

@@ -1,8 +1,0 @@
-Las librerías utilizadas en el modulo son:
-  1. PostgreSQL
-  2. JPA
-  3. JAXB
-  4. EclipseLink (proppias de Netbeans).
-  5. Junit (proppias de Netbeans).
-  6. HamCrest (proppias de Netbeans).
-  7. ObjectDB
